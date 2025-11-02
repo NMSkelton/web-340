@@ -1,0 +1,11 @@
+{
+    "name": "recipes",
+    "version": "1.0.0",
+    "description": "Recipes",
+    "main": "recipes.js",
+    "scripts": {
+      "start": "node index.js",
+      "test": "node tester.js"
+    },
+    "dependencies": {}
+  }
